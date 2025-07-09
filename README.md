@@ -23,10 +23,18 @@ cd Airbnb-Clone-With-React
 ```
 
 2. **Install dependencies**
-Run this command in repo directory
-```npm install```
 
-3. Run the development server
 Run this command in repo directory
-```npm start```
+```bash
+npm install
+```
+
+4. **Run the development server**
+
+Run this command in repo directory
+
+```bash
+npm start
+```
+
 This will run the app on http://localhost:3000.
