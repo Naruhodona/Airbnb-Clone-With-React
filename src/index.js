@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-
-const App = () => <h1>Hello, React tanpa npm create!</h1>;
+import App from './App.js';
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<App />);
