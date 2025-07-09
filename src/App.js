@@ -1,5 +1,5 @@
 import React from 'react';
-import Home from './home.js';
+import Home from './Home.js';
 import Header from './Header.js';
 
 function App() {
